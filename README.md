@@ -25,7 +25,7 @@ Go well, ngā mihi...
 <figure>
   <img src="nikau.jpg" alt="Nikau Palms Punakaiki"><br>
   <figcaption>
-    <p>Nikau Palms Punakaiki (<a href="https://www.flickr.com/photos/28628344@N02/">godhead22</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>attribution).</p>
+    <p>Nikau Palms Punakaiki (<a href="https://www.flickr.com/photos/28628344@N02/">godhead22</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>).</p>
   </figcaption>
 </figure>
 
