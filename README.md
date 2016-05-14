@@ -1,4 +1,4 @@
-# Cohort name, year
+# Kauri, 2016
 
 Kia ora.
 
@@ -23,9 +23,9 @@ Your learning journey unfolds:
 Go well, ngā mihi...
 
 <figure>
-  <img src="" alt=""><br>
+  <img src="nikau.jpg" alt="Nikau Palms Punakaiki"><br>
   <figcaption>
-    <p>Description, attribution.</p>
+    <p>Nikau Palms Punakaiki (<a href="https://www.flickr.com/photos/28628344@N02/">godhead22</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>attribution).</p>
   </figcaption>
 </figure>
 
