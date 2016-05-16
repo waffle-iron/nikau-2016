@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nikau-2016/nikau-2016.png?label=ready&title=Ready)](https://waffle.io/nikau-2016/nikau-2016)
 # Nikau, 2016
 
 Kia ora.
